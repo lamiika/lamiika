@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**lamiika/lamiika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student working on electronics and embedded systems.
 
-Here are some ideas to get you started:
+Electronics projects:
+* [lidar to arduino adapter](https://github.com/wawa2024/Design_of_Microcontroller_Controlled_Devices)
+  - it has a system in package version and a from components version with a diy buck-boost converter, PWM generator and linear regulator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Embedded systems projects: 
+* [home alarm system](https://github.com/wawa2024/Embedded_Systems_and_Microcontrollers)
+* [weather data project](https://github.com/lamiika/arduino-weather-data-project)
+
+I'm currently working on:
+* learning to use zephyr rtos on NRF microcontrollers
+* simple diy oscilloscope
