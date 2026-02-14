@@ -11,5 +11,5 @@ Embedded systems projects:
 * [weather data project](https://github.com/lamiika/arduino-weather-data-project)
 
 I'm currently working on:
+* [ESP32 Oscilloscope](https://github.com/lamiika/esp32-oscilloscope)
 * learning to use zephyr rtos on NRF microcontrollers
-* simple diy oscilloscope
